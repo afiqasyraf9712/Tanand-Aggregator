@@ -1,0 +1,2676 @@
+{
+  "factories": [
+    {
+      "factoryID": "Factory1",
+      "devices": [
+        {
+          "deviceId": "LV-F1",
+          "deviceType": "level-1",
+          "products": [
+            {
+              "name": "AD",
+              "type": "product",
+              "keys": [
+                "AD",
+                "BS",
+                "RC"
+              ]
+            }
+          ]
+        },
+        {
+          "deviceId": "F1B-1",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "BS",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F1B-2",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "BS",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F1B-16",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "BS",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F1B-17",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "BS",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F1B-19",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "RC",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F1B-4-4-2",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "AD-HVAC",
+              "percentage": 100
+            },
+            {
+              "name": "AD",
+              "percentage": 100
+            },
+            {
+              "name": "F1B-4-4-2-AD",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F1B-4-4-3",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "BS",
+              "percentage": 100
+            },
+            {
+              "name": "BS-HVAC",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F1B-4-4-4",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "BS",
+              "percentage": 100
+            },
+            {
+              "name": "BS-HVAC",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F1B-4-4-5",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "BS",
+              "percentage": 100
+            },
+            {
+              "name": "BS-HVAC",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F1B-4-4-6",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "AD",
+              "percentage": 100
+            },
+            {
+              "name": "AD-HVAC",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F1B-4-4-7",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "BS",
+              "percentage": 100
+            },
+            {
+              "name": "BS-HVAC",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F1B-4-4-8",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "BS",
+              "percentage": 100
+            },
+            {
+              "name": "BS-HVAC",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F1B-4-4-9",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "BS",
+              "percentage": 100
+            },
+            {
+              "name": "BS-HVAC",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F1B-5-5-2",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "AD",
+              "percentage": 50
+            },
+            {
+              "name": "AD-HVAC",
+              "percentage": 50
+            },
+            {
+              "name": "BS",
+              "percentage": 50
+            },
+            {
+              "name": "BS-HVAC",
+              "percentage": 50
+            }
+          ]
+        },
+        {
+          "deviceId": "F1B-5-5-3",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "AD",
+              "percentage": 50
+            },
+            {
+              "name": "AD-HVAC",
+              "percentage": 50
+            },
+            {
+              "name": "BS",
+              "percentage": 50
+            },
+            {
+              "name": "BS-HVAC",
+              "percentage": 50
+            }
+          ]
+        },
+        {
+          "deviceId": "F1B-5-5-4",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "AD",
+              "percentage": 50
+            },
+            {
+              "name": "AD-HVAC",
+              "percentage": 50
+            },
+            {
+              "name": "BS",
+              "percentage": 50
+            },
+            {
+              "name": "BS-HVAC",
+              "percentage": 50
+            }
+          ]
+        },
+        {
+          "deviceId": "F1B-5-5-5",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "AD",
+              "percentage": 50
+            },
+            {
+              "name": "AD-HVAC",
+              "percentage": 50
+            },
+            {
+              "name": "BS",
+              "percentage": 50
+            },
+            {
+              "name": "BS-HVAC",
+              "percentage": 50
+            }
+          ]
+        },
+        {
+          "deviceId": "F1B-5-5-6",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "AD",
+              "percentage": 50
+            },
+            {
+              "name": "AD-HVAC",
+              "percentage": 50
+            },
+            {
+              "name": "BS",
+              "percentage": 50
+            },
+            {
+              "name": "BS-HVAC",
+              "percentage": 50
+            }
+          ]
+        },
+        {
+          "deviceId": "F1B-5-5-7",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "BS",
+              "percentage": 100
+            },
+            {
+              "name": "BS-HVAC",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F1B-5-5-8",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "BS",
+              "percentage": 100
+            },
+            {
+              "name": "BS-HVAC",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F1B-5-5-9",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "BS",
+              "percentage": 100
+            },
+            {
+              "name": "BS-HVAC",
+              "percentage": 100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "factoryID": "Factory2A",
+      "devices": [
+        {
+          "deviceId": "LV-F2A",
+          "deviceType": "level-1",
+          "products": [
+            {
+              "name": "RC",
+              "type": "product",
+              "keys": [
+                "WP",
+                "SR"
+              ]
+            }
+          ]
+        },
+        {
+          "deviceId": "F2A-19",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "WP",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F2A-29",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "WP",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F2A-30",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "WP",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F2A-36",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "WP",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F2A-38",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "WP",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F2A-18",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "AD",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F2A-21",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "SR",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F2A-27",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "AD",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F2A-33",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "SR",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F2A-34",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "SR",
+              "percentage": 100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "factoryID": "Factory2B",
+      "devices": [
+        {
+          "deviceId": "LV-F2B",
+          "deviceType": "level-1",
+          "products": [
+            {
+              "name": "RC",
+              "type": "product",
+              "keys": [
+                "BS",
+                "WP",
+                "SR",
+                "AD"
+              ]
+            }
+          ]
+        },
+        {
+          "deviceId": "F2B-2",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "BS-COM",
+              "percentage": 4
+            },
+            {
+              "name": "RC-COM",
+              "percentage": 77
+            },
+            {
+              "name": "WP-COM",
+              "percentage": 9
+            },
+            {
+              "name": "SR-COM",
+              "percentage": 10
+            },
+            {
+              "name": "BS",
+              "percentage": 4
+            },
+            {
+              "name": "F2B-2-BS",
+              "percentage": 4
+            },
+            {
+              "name": "RC",
+              "percentage": 77
+            },
+            {
+              "name": "F2B-2-RC",
+              "percentage": 77
+            },
+            {
+              "name": "WP",
+              "percentage": 9
+            },
+            {
+              "name": "F2B-2-WP",
+              "percentage": 9
+            },
+            {
+              "name": "SR",
+              "percentage": 10
+            },
+            {
+              "name": "F2B-2-SR",
+              "percentage": 10
+            }
+          ]
+        },
+        {
+          "deviceId": "F2B-11",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "RC",
+              "percentage": 50
+            },
+            {
+              "name": "RC-HVAC",
+              "percentage": 50
+            },
+            {
+              "name": "WP",
+              "percentage": 50
+            },
+            {
+              "name": "WP-HVAC",
+              "percentage": 50
+            }
+          ]
+        },
+        {
+          "deviceId": "F2B-12",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "RC",
+              "percentage": 30
+            },
+            {
+              "name": "RC-HVAC",
+              "percentage": 30
+            },
+            {
+              "name": "WP",
+              "percentage": 30
+            },
+            {
+              "name": "WP-HVAC",
+              "percentage": 30
+            },
+            {
+              "name": "SR",
+              "percentage": 40
+            },
+            {
+              "name": "SR-HVAC",
+              "percentage": 40
+            }
+          ]
+        },
+        {
+          "deviceId": "F2B-16",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "RC",
+              "percentage": 50
+            },
+            {
+              "name": "RC-HVAC",
+              "percentage": 50
+            },
+            {
+              "name": "SR",
+              "percentage": 50
+            },
+            {
+              "name": "SR-HVAC",
+              "percentage": 50
+            }
+          ]
+        },
+        {
+          "deviceId": "F2B-31",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "BS",
+              "percentage": 4
+            },
+            {
+              "name": "BS-COM",
+              "percentage": 4
+            },
+            {
+              "name": "RC",
+              "percentage": 77
+            },
+            {
+              "name": "RC-COM",
+              "percentage": 77
+            },
+            {
+              "name": "WP",
+              "percentage": 9
+            },
+            {
+              "name": "WP-COM",
+              "percentage": 9
+            },
+            {
+              "name": "SR",
+              "percentage": 10
+            },
+            {
+              "name": "SR-COM",
+              "percentage": 10
+            }
+          ]
+        },
+        {
+          "deviceId": "F2B-9",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "WP",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F2B-13",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "AD",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F2B-21",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "AD",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F2B-24",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "WP",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F2B-25",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "WP",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F2B-26",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "AD",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F2B-28",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "WP",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F2B-32",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "AD",
+              "percentage": 100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "factoryID": "Factory3A",
+      "devices": [
+        {
+          "deviceId": "LV-F3A",
+          "deviceType": "level-1",
+          "products": [
+            {
+              "name": "OA",
+              "type": "product",
+              "keys": [
+                "RC",
+                "WP"
+              ]
+            }
+          ]
+        },
+        {
+          "deviceId": "F3A-9",
+          "deviceType": "level-3",
+          "products": [
+            {
+              "name": "RC",
+              "type": "meter",
+              "keys": [
+                "F3A-9-1"
+              ]
+            }
+          ]
+        },
+        {
+          "deviceId": "F3A-9-1",
+          "deviceType": "level-3",
+          "products": [
+            {
+              "name": "RC",
+              "type": "meter",
+              "keys": [
+                "F3A-9-1-1",
+                "F3A-9-1-2",
+                "F3A-9-1-3"
+              ]
+            }
+          ]
+        },
+        {
+          "deviceId": "F3A-9-1-1",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "WP",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F3A-9-1-2",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "WP",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F3A-9-1-3",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "CN",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F3A-10",
+          "deviceType": "level-3",
+          "products": [
+            {
+              "name": "RC",
+              "type": "meter",
+              "keys": [
+                "F3A-10-1",
+                "F3A-10-2",
+                "F3A-10-3"
+              ]
+            }
+          ]
+        },
+        {
+          "deviceId": "F3A-10-1",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "WP",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F3A-10-2",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "WP",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F3A-10-3",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "WP",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F3A-11",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "RC",
+              "percentage": 100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "factoryID": "Factory3B1",
+      "devices": [
+        {
+          "deviceId": "LV-F3B1",
+          "deviceType": "level-1",
+          "products": [
+            {
+              "name": "OA",
+              "type": "product",
+              "keys": [
+                "RC",
+                "TI",
+                "SR",
+                "CT",
+                "AD"
+              ]
+            }
+          ]
+        },
+        {
+          "deviceId": "F3B1-1",
+          "deviceType": "level-3",
+          "products": [
+            {
+              "name": "OA",
+              "type": "meter",
+              "keys": [
+                "F3B1-1-3",
+                "F3B1-1-4",
+                "F3B1-1-6"
+              ]
+            }
+          ]
+        },
+        {
+          "deviceId": "F3B1-1-3",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "OA",
+              "percentage": 30
+            },
+            {
+              "name": "TI",
+              "percentage": 40
+            },
+            {
+              "name": "RC",
+              "percentage": 30
+            }
+          ]
+        },
+        {
+          "deviceId": "F3B1-1-4",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "OA",
+              "percentage": 10
+            },
+            {
+              "name": "RC",
+              "percentage": 90
+            }
+          ]
+        },
+        {
+          "deviceId": "F3B1-1-6",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "RC",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F3B1-2",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "OA",
+              "percentage": 25
+            },
+            {
+              "name": "OA-COM",
+              "percentage": 25
+            },
+            {
+              "name": "SR",
+              "percentage": 25
+            },
+            {
+              "name": "SR-COM",
+              "percentage": 25
+            },
+            {
+              "name": "CT",
+              "percentage": 25
+            },
+            {
+              "name": "CT-COM",
+              "percentage": 25
+            },
+            {
+              "name": "TI",
+              "percentage": 25
+            },
+            {
+              "name": "TI-COM",
+              "percentage": 25
+            }
+          ]
+        },
+        {
+          "deviceId": "F3B1-3",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "OA",
+              "percentage": 25
+            },
+            {
+              "name": "OA-COM",
+              "percentage": 25
+            },
+            {
+              "name": "SR",
+              "percentage": 25
+            },
+            {
+              "name": "SR-COM",
+              "percentage": 25
+            },
+            {
+              "name": "CT",
+              "percentage": 25
+            },
+            {
+              "name": "CT-COM",
+              "percentage": 25
+            },
+            {
+              "name": "TI",
+              "percentage": 25
+            },
+            {
+              "name": "TI-COM",
+              "percentage": 25
+            }
+          ]
+        },
+        {
+          "deviceId": "F3B1-4",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "RC",
+              "percentage": 25
+            }
+          ]
+        },
+        {
+          "deviceId": "F3B1-6",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "RC",
+              "percentage": 25
+            }
+          ]
+        },
+        {
+          "deviceId": "F3B1-8",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "OA",
+              "percentage": 50
+            },
+            {
+              "name": "OA-HVAC",
+              "percentage": 50
+            },
+            {
+              "name": "RC",
+              "percentage": 50
+            },
+            {
+              "name": "RC-HVAC",
+              "percentage": 50
+            }
+          ]
+        },
+        {
+          "deviceId": "F3B1-12",
+          "deviceType": "level-3",
+          "products": [
+            {
+              "name": "OA",
+              "type": "meter",
+              "keys": [
+                "F3B1-12-1",
+                "F3B1-12-2",
+                "F3B1-12-3",
+                "F3B1-12-4",
+                "F3B1-12-5"
+              ]
+            }
+          ]
+        },
+        {
+          "deviceId": "F3B1-12-1",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "TI",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F3B1-12-2",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "TI",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F3B1-12-3",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "TI",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F3B1-12-4",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "TI",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F3B1-12-5",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "TI",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F3B1-13-1",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "AD",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F3B1-13-4",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "RC",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F3B1-13-5",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "RC",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F3B1-13-8",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "RC",
+              "percentage": 100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "factoryID": "Factory3B2",
+      "devices": [
+        {
+          "deviceId": "LV-F3B2",
+          "deviceType": "level-1",
+          "products": [
+            {
+              "name": "RC",
+              "type": "product",
+              "keys": [
+                "OA",
+                "TI"
+              ]
+            }
+          ]
+        },
+        {
+          "deviceId": "F3B2-1",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "TI",
+              "percentage": 50
+            },
+            {
+              "name": "TI-HVAC",
+              "percentage": 50
+            },
+            {
+              "name": "OA",
+              "percentage": 50
+            },
+            {
+              "name": "OA-HVAC",
+              "percentage": 50
+            }
+          ]
+        },
+        {
+          "deviceId": "F3B2-2",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "OA",
+              "percentage": 50
+            },
+            {
+              "name": "OA-HVAC",
+              "percentage": 50
+            },
+            {
+              "name": "RC",
+              "percentage": 50
+            },
+            {
+              "name": "RC-HVAC",
+              "percentage": 50
+            }
+          ]
+        },
+        {
+          "deviceId": "F3B2-8",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "TI",
+              "percentage": 100
+            },
+            {
+              "name": "TI-HVAC",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F3B2-10",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "OA",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F3B2-11",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "OA",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F3B2-12",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "OA",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F3B2-13",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "OA",
+              "percentage": 100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "factoryID": "Factory5",
+      "devices": [
+        {
+          "deviceId": "LV-F5B",
+          "deviceType": "level-1",
+          "products": [
+            {
+              "name": "RC",
+              "type": "product",
+              "keys": [
+                "SR",
+                "CT",
+                "WP"
+              ]
+            }
+          ]
+        },
+        {
+          "deviceId": "F5BA-1",
+          "deviceType": "level-3",
+          "products": [
+            {
+              "name": "RC",
+              "type": "meter",
+              "keys": [
+                "F5BA-1-1",
+                "F5BA-1-2",
+                "F5BA-1-3"
+              ]
+            }
+          ]
+        },
+        {
+          "deviceId": "F5BA-1-1",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "SR",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F5BA-1-2",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "SR",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F5BA-1-3",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "CT",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F5BA-1-4",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "RC",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F5BA-1-5",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "RC",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F5B-2",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "SR",
+              "percentage": 50
+            },
+            {
+              "name": "SR-HVAC",
+              "percentage": 50
+            },
+            {
+              "name": "CT",
+              "percentage": 50
+            },
+            {
+              "name": "CT-HVAC",
+              "percentage": 50
+            }
+          ]
+        },
+        {
+          "deviceId": "F5B-9",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "SR",
+              "percentage": 30
+            },
+            {
+              "name": "SR-HVAC",
+              "percentage": 30
+            },
+            {
+              "name": "CT",
+              "percentage": 70
+            },
+            {
+              "name": "CT-HVAC",
+              "percentage": 70
+            }
+          ]
+        },
+        {
+          "deviceId": "F5B-11",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "RC",
+              "percentage": 50
+            },
+            {
+              "name": "RC-HVAC",
+              "percentage": 50
+            },
+            {
+              "name": "WP",
+              "percentage": 50
+            },
+            {
+              "name": "WP-HVAC",
+              "percentage": 50
+            }
+          ]
+        },
+        {
+          "deviceId": "F5B-12",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "SR",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F5B-14",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "RC",
+              "percentage": 50
+            },
+            {
+              "name": "RC-HVAC",
+              "percentage": 50
+            },
+            {
+              "name": "WP",
+              "percentage": 50
+            },
+            {
+              "name": "WP-HVAC",
+              "percentage": 50
+            }
+          ]
+        },
+        {
+          "deviceId": "F5B-5",
+          "deviceType": "level-2",
+          "products": [
+            {
+              "name": "RC",
+              "type": "product",
+              "keys": [
+                "F5B-5-1-SR",
+                "F5B-5-2-SR",
+                "F5B-5-3-CT",
+                "F5B-5-4-CT",
+                "F5B-5-7-7-AD"
+              ]
+            }
+          ]
+        },
+        {
+          "deviceId": "F5B-5-1",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "SR",
+              "percentage": 100
+            },
+            {
+              "name": "F5B-5-1-SR",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F5B-5-2",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "SR",
+              "percentage": 100
+            },
+            {
+              "name": "F5B-5-2-SR",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F5B-5-3",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "CT",
+              "percentage": 100
+            },
+            {
+              "name": "F5B-5-3-CT",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F5B-5-4",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "CT",
+              "percentage": 100
+            },
+            {
+              "name": "F5B-5-4-CT",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F5B-5-7-6",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "RC",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F5B-5-7-7",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "AD",
+              "percentage": 100
+            },
+            {
+              "name": "F5B-5-7-7-AD",
+              "percentage": 100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "factoryID": "Factory6A",
+      "devices": [
+        {
+          "deviceId": "LV-F6A",
+          "deviceType": "level-1",
+          "products": [
+            {
+              "name": "TI",
+              "type": "product",
+              "keys": [
+                "OA"
+              ]
+            }
+          ]
+        },
+        {
+          "deviceId": "F6A-1",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "OA",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F6A-8",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "OA",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F6A-2",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "OA",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F6A-11",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "OA",
+              "percentage": 100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "factoryID": "Factory6B",
+      "devices": [
+        {
+          "deviceId": "LV-F6B",
+          "deviceType": "level-1",
+          "products": [
+            {
+              "name": "OA",
+              "type": "product",
+              "keys": [
+                "TI"
+              ]
+            }
+          ]
+        },
+        {
+          "deviceId": "F6B-1-2",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "TI",
+              "percentage": 30
+            }
+          ]
+        },
+        {
+          "deviceId": "F6B-2",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "TI",
+              "percentage": 50
+            },
+            {
+              "name": "TI-HVAC",
+              "percentage": 50
+            },
+            {
+              "name": "OA",
+              "percentage": 50
+            },
+            {
+              "name": "OA-HVAC",
+              "percentage": 50
+            }
+          ]
+        },
+        {
+          "deviceId": "F6B-8-2",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "TI",
+              "percentage": 30
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "factoryID": "Factory7A",
+      "devices": [
+        {
+          "deviceId": "LV-F7A",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "CT",
+              "percentage": 100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "factoryID": "Factory7B",
+      "devices": [
+        {
+          "deviceId": "LV-F7B",
+          "deviceType": "level-1",
+          "products": [
+            {
+              "name": "CT",
+              "type": "product",
+              "keys": [
+                "CT",
+                "AD",
+                "SR",
+                "OA"
+              ]
+            }
+          ]
+        },
+        {
+          "deviceId": "F7B-2",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "CT",
+              "percentage": 100
+            },
+            {
+              "name": "CT-COM",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F7B-3",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "CT",
+              "percentage": 100
+            },
+            {
+              "name": "CT-HVAC",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F7B-4",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "AD",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F7B-5",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "CT",
+              "percentage": 100
+            },
+            {
+              "name": "CT-HVAC",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F7B-6",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "AD",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F7B-7-1",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "AD",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F7B-7-6",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "AD",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F7B-12",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "AD",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F7B-14",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "AD",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F7B-15",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "OA",
+              "percentage": 100
+            },
+            {
+              "name": "SR",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F7B-16-8",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "AD",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F7B-16-9",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "AD",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F7B-17",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "AD",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F7B-20",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "AD",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F7B-22-1",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "CT",
+              "percentage": 100
+            },
+            {
+              "name": "CT-COM",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F7B-22-2",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "AD",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F7B-22-3",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "CT",
+              "percentage": 20
+            },
+            {
+              "name": "OA",
+              "percentage": 50
+            },
+            {
+              "name": "SR",
+              "percentage": 30
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "factoryID": "Factory8A",
+      "devices": [
+        {
+          "deviceId": "LV-F8A",
+          "deviceType": "level-1",
+          "products": [
+            {
+              "name": "OA",
+              "type": "product",
+              "keys": [
+                "SR"
+              ]
+            }
+          ]
+        },
+        {
+          "deviceId": "F8A14-18",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "SR",
+              "percentage": 100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "factoryID": "Factory8B",
+      "devices": [
+        {
+          "deviceId": "LV-F8B",
+          "deviceType": "level-1",
+          "products": [
+            {
+              "name": "OA",
+              "type": "product",
+              "keys": [
+                "SR",
+                "AD"
+              ]
+            }
+          ]
+        },
+        {
+          "deviceId": "F8B-1-6-to-1-10",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "SR",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F8B-5",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "SR",
+              "percentage": 50
+            }
+          ]
+        },
+        {
+          "deviceId": "F8B-6",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "AD",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F8B-7",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "SR",
+              "percentage": 50
+            }
+          ]
+        },
+        {
+          "deviceId": "F8B-8",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "OA",
+              "percentage": 100
+            },
+            {
+              "name": "OA-HVAC",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F8B-11",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "SR",
+              "percentage": 100
+            },
+            {
+              "name": "SR-HVAC",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F8B-12",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "SR",
+              "percentage": 50
+            },
+            {
+              "name": "SR-HVAC",
+              "percentage": 50
+            },
+            {
+              "name": "OA",
+              "percentage": 50
+            },
+            {
+              "name": "OA-HVAC",
+              "percentage": 50
+            }
+          ]
+        },
+        {
+          "deviceId": "F8B-14",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "SR",
+              "percentage": 100
+            },
+            {
+              "name": "SR-HVAC",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F8B-9",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "SR",
+              "percentage": 50
+            },
+            {
+              "name": "SR-COM",
+              "percentage": 50
+            },
+            {
+              "name": "OA",
+              "percentage": 50
+            },
+            {
+              "name": "OA-COM",
+              "percentage": 50
+            }
+          ]
+        },
+        {
+          "deviceId": "F8B-10",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "SR",
+              "percentage": 50
+            },
+            {
+              "name": "SR-COM",
+              "percentage": 50
+            },
+            {
+              "name": "OA",
+              "percentage": 50
+            },
+            {
+              "name": "OA-COM",
+              "percentage": 50
+            }
+          ]
+        },
+        {
+          "deviceId": "F8B-15",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "SR",
+              "percentage": 50
+            },
+            {
+              "name": "SR-COM",
+              "percentage": 50
+            },
+            {
+              "name": "OA",
+              "percentage": 50
+            },
+            {
+              "name": "OA-COM",
+              "percentage": 50
+            }
+          ]
+        },
+        {
+          "deviceId": "F8B-19-6-to-19-10",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "SR",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F8B-20-6-to-20-12",
+          "deviceType": "level-3",
+          "products": [
+            {
+              "name": "RC",
+              "type": "meter",
+              "keys": [
+                "F8B-20-7"
+              ]
+            }
+          ]
+        },
+        {
+          "deviceId": "F8B-20-7",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "OA",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F8B-20-12",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "SR",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F8B-17",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "OA",
+              "percentage": 100
+            },
+            {
+              "name": "OA-HVAC",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F8B-23",
+          "deviceType": "level-3",
+          "products": [
+            {
+              "name": "SR",
+              "type": "meter",
+              "keys": [
+                "F8B-23-11",
+                "F8B-23-12",
+                "F8B-23-16",
+                "F8B-23-18",
+                "F8B-23-23",
+                "F8B-23-19",
+                "F8B-23-20",
+                "F8B-23-21",
+                "F8B-23-22",
+                "F8B-23-26",
+                "F8B-23-27"
+              ]
+            }
+          ]
+        },
+        {
+          "deviceId": "F8B-23-11",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "AD",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F8B-23-12",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "AD",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F8B-23-16",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "AD",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F8B-23-18",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "AD",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F8B-23-23",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "AD",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F8B-23-19",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "SR",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F8B-23-20",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "SR",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F8B-23-21",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "SR",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F8B-23-22",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "SR",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F8B-23-26",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "SR",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F8B-23-27",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "SR",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F8B-24-1",
+          "deviceType": "level-2",
+          "products": [
+            {
+              "name": "OA",
+              "type": "product",
+              "keys": [
+                "F8B-24-10-1-SR",
+                "F8B-24-10-2-SR",
+                "F8B-24-10-3-SR",
+                "F8B-24-10-4-SR",
+                "F8B-24-10-5-SR",
+                "F8B-24-10-6-SR",
+                "F8B-24-10-7-SR",
+                "F8B-24-11-1-SR",
+                "F8B-24-11-2-SR",
+                "F8B-24-11-3-SR",
+                "F8B-24-11-4-SR",
+                "F8B-24-11-5-SR",
+                "F8B-24-11-6-SR",
+                "F8B-24-11-7-SR",
+                "F8B-24-11-8-SR",
+                "F8B-24-11-9-SR"
+              ]
+            }
+          ]
+        },
+        {
+          "deviceId": "F8B-24-10-1",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "SR",
+              "percentage": 50
+            },
+            {
+              "name": "SR-HVAC",
+              "percentage": 50
+            },
+            {
+              "name": "F8B-24-10-1-SR",
+              "percentage": 50
+            },
+            {
+              "name": "OA",
+              "percentage": 50
+            },
+            {
+              "name": "OA-HVAC",
+              "percentage": 50
+            }
+          ]
+        },
+        {
+          "deviceId": "F8B-24-10-2",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "SR",
+              "percentage": 50
+            },
+            {
+              "name": "SR-HVAC",
+              "percentage": 50
+            },
+            {
+              "name": "F8B-24-10-2-SR",
+              "percentage": 50
+            },
+            {
+              "name": "OA",
+              "percentage": 50
+            },
+            {
+              "name": "OA-HVAC",
+              "percentage": 50
+            }
+          ]
+        },
+        {
+          "deviceId": "F8B-24-10-3",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "SR",
+              "percentage": 50
+            },
+            {
+              "name": "SR-HVAC",
+              "percentage": 50
+            },
+            {
+              "name": "F8B-24-10-3-SR",
+              "percentage": 50
+            },
+            {
+              "name": "OA",
+              "percentage": 50
+            },
+            {
+              "name": "OA-HVAC",
+              "percentage": 50
+            }
+          ]
+        },
+        {
+          "deviceId": "F8B-24-10-4",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "SR",
+              "percentage": 50
+            },
+            {
+              "name": "SR-HVAC",
+              "percentage": 50
+            },
+            {
+              "name": "F8B-24-10-4-SR",
+              "percentage": 50
+            },
+            {
+              "name": "OA",
+              "percentage": 50
+            },
+            {
+              "name": "OA-HVAC",
+              "percentage": 50
+            }
+          ]
+        },
+        {
+          "deviceId": "F8B-24-10-5",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "SR",
+              "percentage": 50
+            },
+            {
+              "name": "SR-HVAC",
+              "percentage": 50
+            },
+            {
+              "name": "F8B-24-10-5-SR",
+              "percentage": 50
+            },
+            {
+              "name": "OA",
+              "percentage": 50
+            },
+            {
+              "name": "OA-HVAC",
+              "percentage": 50
+            }
+          ]
+        },
+        {
+          "deviceId": "F8B-24-10-6",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "SR",
+              "percentage": 100
+            },
+            {
+              "name": "SR-HVAC",
+              "percentage": 100
+            },
+            {
+              "name": "F8B-24-10-6-SR",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F8B-24-10-7",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "SR",
+              "percentage": 100
+            },
+            {
+              "name": "SR-HVAC",
+              "percentage": 100
+            },
+            {
+              "name": "F8B-24-10-7-SR",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F8B-24-11-1",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "SR",
+              "percentage": 100
+            },
+            {
+              "name": "SR-HVAC",
+              "percentage": 100
+            },
+            {
+              "name": "F8B-24-11-1-SR",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F8B-24-11-2",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "SR",
+              "percentage": 100
+            },
+            {
+              "name": "SR-HVAC",
+              "percentage": 100
+            },
+            {
+              "name": "F8B-24-11-2-SR",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F8B-24-11-3",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "SR",
+              "percentage": 100
+            },
+            {
+              "name": "SR-HVAC",
+              "percentage": 100
+            },
+            {
+              "name": "F8B-24-11-3-SR",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F8B-24-11-4",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "SR",
+              "percentage": 100
+            },
+            {
+              "name": "SR-HVAC",
+              "percentage": 100
+            },
+            {
+              "name": "F8B-24-11-4-SR",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F8B-24-11-5",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "SR",
+              "percentage": 100
+            },
+            {
+              "name": "SR-HVAC",
+              "percentage": 100
+            },
+            {
+              "name": "F8B-24-11-5-SR",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F8B-24-11-6",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "SR",
+              "percentage": 100
+            },
+            {
+              "name": "SR-HVAC",
+              "percentage": 100
+            },
+            {
+              "name": "F8B-24-11-6-SR",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F8B-24-11-7",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "SR",
+              "percentage": 100
+            },
+            {
+              "name": "SR-HVAC",
+              "percentage": 100
+            },
+            {
+              "name": "F8B-24-11-7-SR",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F8B-24-11-8",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "SR",
+              "percentage": 100
+            },
+            {
+              "name": "SR-HVAC",
+              "percentage": 100
+            },
+            {
+              "name": "F8B-24-11-8-SR",
+              "percentage": 100
+            }
+          ]
+        },
+        {
+          "deviceId": "F8B-24-11-9",
+          "deviceType": "level-4",
+          "products": [
+            {
+              "name": "SR",
+              "percentage": 100
+            },
+            {
+              "name": "SR-HVAC",
+              "percentage": 100
+            },
+            {
+              "name": "F8B-24-11-9-SR",
+              "percentage": 100
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
